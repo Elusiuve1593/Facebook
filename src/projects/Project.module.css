@@ -1,0 +1,10 @@
+.projectBlock{
+    height: 100vh;
+    background-color: lightcyan;
+}
+
+.projectContainer {
+    align-items: center;
+    flex-direction: column;
+    justify-content: flex-start;
+}
