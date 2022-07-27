@@ -1,0 +1,10 @@
+.footerBlock {
+    height: 25vh;
+    background-color: midnightblue;
+    flex-wrap: wrap;
+}
+
+.footerContainer {
+    align-items: center;
+    justify-content: space-around;
+}

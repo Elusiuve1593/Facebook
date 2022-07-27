@@ -1,0 +1,11 @@
+.description {
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid red;
+}
+
+.title {
+    background-color: cadetblue;
+}

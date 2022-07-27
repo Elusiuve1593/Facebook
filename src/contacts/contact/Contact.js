@@ -1,11 +1,14 @@
 import React from "react";
-import classes from "./Contacts.module.css";
+import classes from "./Contact.module.css";
+import {Form} from "./form/Form";
 
 export const Contact = (props) => {
     return (
         <div>
-            <h2 className={classes.title}>Contacts</h2>
-            <button>SEND</button>
+            <div className={classes.contact}>
+                <h2 className={classes.title}>Contacts</h2>
+                <Form/>
+            </div>
         </div>
     )
 }

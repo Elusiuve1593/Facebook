@@ -1,0 +1,41 @@
+.item {
+    width: 300px;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    height: 50px;
+}
+
+/*.border{*/
+/*    border: 1px solid red;*/
+/*}*/
+
+/*.item_0 {*/
+/*    margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.item_1 {*/
+/*    margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.item_2 {*/
+/*    margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.item_3 {*/
+/*    margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.item_4 {*/
+/*    margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.item_5 {*/
+/*    margin: 10px 10px 10px 10px;*/
+/*}*/
+
+/*.item_6 {*/
+/*    margin: 10px 10px 10px 10px;*/
+/*}*/
+

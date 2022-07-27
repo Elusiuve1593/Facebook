@@ -1,0 +1,11 @@
+.contactBlock {
+    height: 60vh;
+    background-color: lightseagreen;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+
+.contactsContainer {
+    align-items: center;
+    justify-content: space-around;
+}
