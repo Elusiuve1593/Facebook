@@ -1,16 +1,13 @@
 import React from "react";
-import classes from "./Item.module.css"
+import classes from "./Item.module.scss"
 
 export const Item = () => {
     return (
         <div className={classes.item}>
-            <div>1</div>
-            <div>2</div>
-            <div>3</div>
-            <div>4</div>
-            <div>5</div>
-            <div>6</div>
-            <div>7</div>
+            <div></div>
+            <div></div>
+            <div></div>
+            <div></div>
         </div>
     )
 }

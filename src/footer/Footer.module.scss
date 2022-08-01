@@ -1,0 +1,13 @@
+@import "src/common/styles/variables/variables";
+
+.footerBlock {
+  min-height: 25vh;
+  background-color: $backGroundColor;
+  flex-wrap: wrap;
+
+  .footerContainer {
+    align-items: center;
+    justify-content: space-around;
+    margin-bottom: 10px;
+  }
+}

@@ -1,5 +1,5 @@
 import React from "react";
-import classes from "./Description.module.css"
+import classes from "./Description.module.scss"
 import {Item} from "./item/Item";
 import {Title} from "../../common/components/titile/Title";
 

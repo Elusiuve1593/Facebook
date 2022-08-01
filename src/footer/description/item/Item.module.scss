@@ -1,0 +1,17 @@
+@import "src/common/styles/variables/variables";
+
+.item {
+  width: 250px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 50px;
+}
+
+.item div {
+  width: 34px;
+  height: 34px;
+  background-color: $backSecondGroundColor;
+  border-radius: 3px;
+  margin-bottom: 15px;
+}
