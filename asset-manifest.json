@@ -1,17 +1,18 @@
 {
   "files": {
-    "main.css": "/Facebook/static/css/main.150f1859.css",
-    "main.js": "/Facebook/static/js/main.e05da25c.js",
+    "main.css": "/Facebook/static/css/main.bc7bb542.css",
+    "main.js": "/Facebook/static/js/main.7325d9fb.js",
     "static/js/787.28cb0dcd.chunk.js": "/Facebook/static/js/787.28cb0dcd.chunk.js",
+    "static/media/photo.JPG": "/Facebook/static/media/photo.1dfc53b7926e156da9e7.JPG",
     "static/media/socialNetwork.jpg": "/Facebook/static/media/socialNetwork.329a358a0f929193b738.jpg",
     "static/media/toDoList.jpg": "/Facebook/static/media/toDoList.8229eaafe6dd5d7a8075.jpg",
     "index.html": "/Facebook/index.html",
-    "main.150f1859.css.map": "/Facebook/static/css/main.150f1859.css.map",
-    "main.e05da25c.js.map": "/Facebook/static/js/main.e05da25c.js.map",
+    "main.bc7bb542.css.map": "/Facebook/static/css/main.bc7bb542.css.map",
+    "main.7325d9fb.js.map": "/Facebook/static/js/main.7325d9fb.js.map",
     "787.28cb0dcd.chunk.js.map": "/Facebook/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.150f1859.css",
-    "static/js/main.e05da25c.js"
+    "static/css/main.bc7bb542.css",
+    "static/js/main.7325d9fb.js"
   ]
 }
